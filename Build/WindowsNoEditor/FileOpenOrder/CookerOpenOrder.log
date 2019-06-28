@@ -1,0 +1,659 @@
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Maps/Old/NewLevelSequence.uasset" 0
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Player_Controller.uasset" 1
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Bone_GameMode.uasset" 2
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 3
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 4
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 5
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 6
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Back_Legs__Mixed_AO.uasset" 7
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Back_Legs_Normal.uasset" 8
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Back_Legs.uasset" 9
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Front_Legs_Mixed_AO.uasset" 10
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Front_Legs_Normal_DirectX.uasset" 11
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Front_Legs.uasset" 12
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Head_Mixed_AO.uasset" 13
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Head_Normal_DirectX.uasset" 14
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Head.uasset" 15
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Spine_Mixed_AO.uasset" 16
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Spine_Normal_DirectX.uasset" 17
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Spine.uasset" 18
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Technical_Materials/Highlight_Sphere_MAt.uasset" 19
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Technical_Materials/Transparent_Blue.uasset" 20
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 21
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 22
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 23
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 24
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 25
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Esoph_Low_defaultMat_AO.uasset" 26
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Esoph_Low_defaultMat_roughness.uasset" 27
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Esoph_Nm.uasset" 28
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Esoph_txt.uasset" 29
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Esoph_Mat.uasset" 30
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Esophagus.uasset" 31
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/bladder_retope_low_defaultMat_BaseColor.uasset" 32
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/bladder_retope_low_defaultMat_Normal.uasset" 33
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/bladder_retope_low_defaultMat_OcclusionRoughnessMetallic.uasset" 34
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/bladder_Mat.uasset" 35
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Bladder.uasset" 36
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Duodenum/duodenum_Low_defaultMat_BaseColor.uasset" 37
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Duodenum/duodenum_Low_defaultMat_Normal.uasset" 38
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Duodenum/duodenum_Low_defaultMat_OcclusionRoughnessMetallic.uasset" 39
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Duodenum/duodenum_Mat.uasset" 40
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Duodenum/Duodenum.uasset" 41
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Kidney/kidney_low_defaultMat_AO.uasset" 42
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Kidney/kidney_low_defaultMat_baseColor.uasset" 43
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Kidney/kidney_low_defaultMat_NormalMap.uasset" 44
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Kidney/kidney_Mat.uasset" 45
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Kidney/Kidney.uasset" 46
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Spleen/Spleen_Base.uasset" 47
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Spleen/Spleen_Low_defaultMat_AO.uasset" 48
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Spleen/Spleen_Low_defaultMat_roughness.uasset" 49
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Spleen/Spleen_NM.uasset" 50
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Spleen/Spleen_Txt.uasset" 51
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Spleen/Spleen_Mat.uasset" 52
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Spleen/Spleen.uasset" 53
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Stomach/Stomach_Low_defaultMat_AO.uasset" 54
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Stomach/Stomach_Low_defaultMat_baseColor.uasset" 55
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Stomach/Stomach_Low_defaultMat_roughness.uasset" 56
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Stomach/Stomach_NM.uasset" 57
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Stomach/Stomach_Mat.uasset" 58
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/GI_Track/Stomach/Stomach.uasset" 59
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Heart_Low_NewHeart_AO.uasset" 60
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Heart_Low_NewHeart_roughness.uasset" 61
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Heart_new_nm.uasset" 62
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Heart_New_txt.uasset" 63
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Heart_Mat.uasset" 64
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/heart.uasset" 65
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Intestines_LP_NEW_Intestines_LP_NEW1_defaultMat1_BaseColor.uasset" 66
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Intestines_LP_NEW_Intestines_LP_NEW1_defaultMat1_Normal.uasset" 67
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Intestines_LP_NEW_Intestines_LP_NEW1_defaultMat1_OcclusionRoughnessMetallic.uasset" 68
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Intestines_Mat.uasset" 69
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Intestines.uasset" 70
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Lung_NM.uasset" 71
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Lung_txt_three.uasset" 72
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/LungSP_Low_Lungs_AO.uasset" 73
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/LungSP_Low_Lungs_roughness.uasset" 74
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Lungs_Mat.uasset" 75
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/lungs.uasset" 76
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Skin_NRM.uasset" 77
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Skin_TXT.uasset" 78
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Skin_Mat.uasset" 79
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/skin.uasset" 80
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/spinalcord_low_defaultMat_roughness.uasset" 81
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/SpinalCord_Nm.uasset" 82
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/SpinalCord_txt.uasset" 83
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/SpinalCord_Mat.uasset" 84
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Spinal_Cord.uasset" 85
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 86
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Updated/Body_of_Radius.uasset" 87
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Updated/Body_of_Ulna.uasset" 88
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Updated/D_Base.uasset" 89
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Updated/E_Base.uasset" 90
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Updated/Head_of_Radius.uasset" 91
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Updated/Olecranon.uasset" 92
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Updated/Olecranon_Tuber.uasset" 93
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Updated/Styloid_Process_of_Radius.uasset" 94
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Updated/Styloid_Process_of_Ulna.uasset" 95
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneA/A_3.uasset" 96
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneA/C1_Atlas.uasset" 97
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneA/C2_Axis.uasset" 98
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneA/C3.uasset" 99
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneA/C4.uasset" 100
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneA/C5.uasset" 101
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneA/C6.uasset" 102
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneA/C7.uasset" 103
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneA/External_Acoustic_Meatus.uasset" 104
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneA/Frontal_Bone.uasset" 105
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneA/Infraorbital_Foramen.uasset" 106
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneA/Maxilla.uasset" 107
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneA/Mental_Foramina.uasset" 108
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneA/Occipital_Bone.uasset" 109
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneA/parietal_Bone.uasset" 110
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneA/Retroarticular_Process.uasset" 111
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneA/Skull.uasset" 112
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneA/Zygomatic_Arch.uasset" 113
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Anticlinal_Vertebra.uasset" 114
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Caudal_Vertebrae.uasset" 115
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Costochondral_Junction_Left.uasset" 116
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Costochondral_Junction_Right.uasset" 117
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Floating_Rib_Left.uasset" 118
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Floating_Rib_Right.uasset" 119
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Head_of_Rib_Left.uasset" 120
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Head_of_Rib_Right.uasset" 121
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Intercostal_Space.uasset" 122
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Lumbar_Vertebrae.uasset" 123
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Ribs_L.uasset" 124
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Ribs_R.uasset" 125
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Sacral_Vertebrae.uasset" 126
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Thoracic_Vertebrae.uasset" 127
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Tubercle_of_Rib_Left.uasset" 128
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Tubercle_of_Rib_Right.uasset" 129
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneC/Acromion_Left.uasset" 130
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneC/Acromion_Right.uasset" 131
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneC/C_Base_L.uasset" 132
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneC/C_Base_R.uasset" 133
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneC/Greater_Tubercle.uasset" 134
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneC/Head_of_Humerus_Left.uasset" 135
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneC/Head_of_Humerus_Right.uasset" 136
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneC/Humeral_Shaft.uasset" 137
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneC/Infraspinous_Fossa_Left.uasset" 138
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneC/Infraspinous_Fossa_Right.uasset" 139
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneC/Supraglenoid_Tubercle_Left.uasset" 140
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneC/Supraglenoid_Tubercle_Right.uasset" 141
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneC/Supraspinous_Fossa_Left.uasset" 142
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneC/Supraspinous_Fossa_Right.uasset" 143
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneC/Tricipital_Line_Left.uasset" 144
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneC/Tricipital_Line_Right.uasset" 145
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneE/E_10.uasset" 146
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneE/E_11.uasset" 147
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneE/E_12.uasset" 148
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneE/E_16.uasset" 149
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneE/E_17.uasset" 150
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneE/E_18.uasset" 151
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneE/E_19.uasset" 152
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneE/E_20.uasset" 153
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneE/E_21.uasset" 154
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Acetabulum.uasset" 155
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/F_Base.uasset" 156
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Femoral_Condyle_Left.uasset" 157
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Femoral_Condyle_Right.uasset" 158
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Greater_Trochanter_Left.uasset" 159
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Greater_Trochanter_Right.uasset" 160
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Head_of_Femur_Left.uasset" 161
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Head_of_Femur_Right.uasset" 162
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Iliac_Shaft_Left.uasset" 163
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Iliac_Shaft_Right.uasset" 164
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Iliac_Wing_Left.uasset" 165
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Iliac_Wing_Right.uasset" 166
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Ischiatic_Tuber.uasset" 167
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Obturator_Foramen.uasset" 168
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Patella__Left.uasset" 169
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Patella_Right.uasset" 170
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Shaft_of_Femur_Left.uasset" 171
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Shaft_of_Femur_Right.uasset" 172
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneG/Fibular_Body.uasset" 173
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneG/G_Base.uasset" 174
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneG/Head_of_Fibula.uasset" 175
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneG/Lateral_Malleolus.uasset" 176
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneG/Medial_Malleolus.uasset" 177
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneG/Tibial_Crest.uasset" 178
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneG/Tibial_Shaft.uasset" 179
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneG/Tibial_Trochlea.uasset" 180
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneG/Tibial_Tuberosity.uasset" 181
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneH/H_10.uasset" 182
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneH/H_12.uasset" 183
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneH/H_13.uasset" 184
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneH/H_15.uasset" 185
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneH/H_16.uasset" 186
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneH/H_17.uasset" 187
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneH/H_2.uasset" 188
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneH/H_3.uasset" 189
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneH/H_4.uasset" 190
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneH/H_5.uasset" 191
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneH/H_7.uasset" 192
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneH/H_8.uasset" 193
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneH/H_9.uasset" 194
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneH/H_Base.uasset" 195
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneH/Metatarsus_1.uasset" 196
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneH/Metatarsus_2.uasset" 197
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneH/Metatarsus_4.uasset" 198
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Dog_BP.uasset" 199
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/1_Skull.uasset" 200
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/1_Skull_Mat.uasset" 201
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog_Skull_BP.uasset" 202
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Naming_Structure.uasset" 203
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Naming_Data_Table.uasset" 204
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 205
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Menus/Widget3DPassThrough.uasset" 206
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 207
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/DefaultTextMaterialOpaque1.uasset" 208
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/DefaultTextMaterialOpaque1_Inst.uasset" 209
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 210
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 211
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 212
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Geometry/RotationHandleFull.uasset" 213
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Geometry/TranslateArrowHandle.uasset" 214
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 215
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 216
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 217
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 218
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 219
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 220
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 221
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 222
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Geometry/VivePreControllerMesh.uasset" 223
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Menus/Question_Type.uasset" 224
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Menus/Quiz_Structure.uasset" 225
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Menus/Quiz_Data_Table.uasset" 226
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_1.uasset" 227
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Muscles_Mat_Parent.uasset" 228
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_Muscles1.uasset" 229
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Menus/Dog_Skull_Quiz_Table.uasset" 230
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Head_Inst.uasset" 231
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M1_Skull.uasset" 232
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_Mask_Master.uasset" 233
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_1.uasset" 234
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M11_Skull.uasset" 235
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_10.uasset" 236
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M13_Skull.uasset" 237
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_11.uasset" 238
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M14_Skull.uasset" 239
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_12.uasset" 240
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M16_Skull.uasset" 241
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_13.uasset" 242
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M17_Skull.uasset" 243
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_14.uasset" 244
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M2_Skull.uasset" 245
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_2.uasset" 246
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M3_Skull.uasset" 247
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_3.uasset" 248
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M4_Skull.uasset" 249
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_4.uasset" 250
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M6_Skull.uasset" 251
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_5.uasset" 252
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M7_Skull.uasset" 253
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_6.uasset" 254
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M8_Skull.uasset" 255
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_7.uasset" 256
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M9_Skull.uasset" 257
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_8.uasset" 258
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M10_Skull.uasset" 259
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_9.uasset" 260
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Technical_Materials/Vive_Controls.uasset" 261
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Menus/Dog_Skull/Hand_Menu_Dog_Skull.uasset" 262
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Menus/Hand_Menu_Main.uasset" 263
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Menus/Dog_Skull/Hand_Menu_Dog_Skull_Quizzing.uasset" 264
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Menus/Dog/Hand_Menu_Dog.uasset" 265
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VRPawn.uasset" 266
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/CALIBRI.uasset" 267
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/CALIBRIB.uasset" 268
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/CALIBRII.uasset" 269
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/CALIBRIL.uasset" 270
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/CALIBRILI.uasset" 271
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/CALIBRIZ.uasset" 272
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/CALIBRI_Font.uasset" 273
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Bone_Widget.uasset" 274
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VR_WidgetActor.uasset" 275
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Audio/Dog_Tutorial_Audio.uasset" 276
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Back_Legs_Trans.uasset" 277
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Bottom.uasset" 278
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/B_base.uasset" 279
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/DogRotator.uasset" 280
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Left_Side.uasset" 281
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Right_Side.uasset" 282
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_legs_2.uasset" 283
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_10.uasset" 284
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_Muscles10.uasset" 285
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_11.uasset" 286
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_Muscles11.uasset" 287
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_12.uasset" 288
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_Muscles12.uasset" 289
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_13.uasset" 290
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_Muscles13.uasset" 291
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Muscles/Front_legs_2.uasset" 292
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_Muscles2.uasset" 293
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_3.uasset" 294
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_Muscles3.uasset" 295
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_4.uasset" 296
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_Muscles4.uasset" 297
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_5.uasset" 298
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_Muscles5.uasset" 299
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_legs_6.uasset" 300
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_Muscles6.uasset" 301
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_7.uasset" 302
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_Muscles7.uasset" 303
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_8.uasset" 304
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_Muscles8.uasset" 305
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_9.uasset" 306
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Front_Legs_Muscles9.uasset" 307
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/10_Skull.uasset" 308
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/10_Skull_Mat.uasset" 309
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/11_Skull.uasset" 310
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/11_Skull_Mat.uasset" 311
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/12_Skull.uasset" 312
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/12_Skull_Mat.uasset" 313
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/13_Skull.uasset" 314
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/13_Skull_Mat.uasset" 315
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/14_Skull.uasset" 316
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/14_Skull_Mat.uasset" 317
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/15_Skull.uasset" 318
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/15_Skull_Mat.uasset" 319
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/16_Skull.uasset" 320
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/16_Skull_Mat.uasset" 321
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/17_Skull.uasset" 322
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/17_Skull_Mat.uasset" 323
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/2_Skull.uasset" 324
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/2_Skull_Mat.uasset" 325
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/3_Skull.uasset" 326
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/3_Skull_Mat.uasset" 327
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/4_Skull.uasset" 328
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/4_Skull_Mat.uasset" 329
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/6_Skull.uasset" 330
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/6_Skull_Mat.uasset" 331
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/7_Skull.uasset" 332
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/7_Skull_Mat.uasset" 333
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/8_Skull.uasset" 334
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/8_Skull_Mat.uasset" 335
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/9_Skull.uasset" 336
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/9_Skull_Mat.uasset" 337
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M12_Skull.uasset" 338
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M15_Skull.uasset" 339
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/ADOBEFANHEITISTD-BOLD.uasset" 340
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/ADOBEFANHEITISTD-BOLD_Font.uasset" 341
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/ADOBEGOTHICSTD-BOLD.uasset" 342
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/ADOBEGOTHICSTD-BOLD_Font.uasset" 343
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/CALIBRIB_Font.uasset" 344
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/CALIBRII_Font.uasset" 345
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/CALIBRILI_Font.uasset" 346
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/CALIBRIL_Font.uasset" 347
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/CALIBRIZ_Font.uasset" 348
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/IMPACT.uasset" 349
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Fonts/IMPACT_Font.uasset" 350
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Geometry/Cylinder.uasset" 351
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 352
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 353
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Geometry/OculusControllerMesh.uasset" 354
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Geometry/Meshes/CubeMaterial.uasset" 355
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 356
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Geometry/Meshes/TemplateFloor.uasset" 357
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Menus/Hand_Menu_Quiz.uasset" 358
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Menus/Open_Menu.uasset" 359
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Menus/Open_Menu_Mat.uasset" 360
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Menus/VR_Keyboard.uasset" 361
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Menus/Dog/Hand_Menu_Dog_Quizzing.uasset" 362
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Menus/images/HighresScreenshot00001.uasset" 363
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Front_legs.uasset" 364
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Brain_Normal_Map.uasset" 365
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Brain_Mat.uasset" 366
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/Brain.uasset" 367
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/PENNVET_brain_001ColorPerFace.uasset" 368
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/Organs/spinalcord_low_defaultMat_AO.uasset" 369
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/B_base.uasset" 370
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Costochondral_Junction.uasset" 371
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Floating_Rib.uasset" 372
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/head_of_Rib.uasset" 373
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneB/Tubercle_of_Rib.uasset" 374
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneD/Body_of_Radius.uasset" 375
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneD/Body_of_Ulna.uasset" 376
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneD/D_Base.uasset" 377
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneD/Head_of_Radius.uasset" 378
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneD/Olecranon.uasset" 379
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneD/Olecranon_Tuber.uasset" 380
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneD/Styloid_Process_of_Radius.uasset" 381
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneD/Styloid_process_of_Ulna.uasset" 382
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneE/D_E_Base.uasset" 383
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Femoral_Condyle.uasset" 384
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Greater_Trochanter.uasset" 385
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Head_of_Femur.uasset" 386
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Iliac_Shaft.uasset" 387
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Iliac_Wing.uasset" 388
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Patella.uasset" 389
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Models/ZoneF/Shaft_of_Femur.uasset" 390
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Muscles/Front_Legs_1.uasset" 391
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Muscles/Front_Legs_10.uasset" 392
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Muscles/Front_Legs_11.uasset" 393
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Muscles/Front_Legs_12.uasset" 394
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Muscles/Front_Legs_13.uasset" 395
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Muscles/Front_Legs_3.uasset" 396
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Muscles/Front_Legs_4.uasset" 397
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Muscles/Front_Legs_5.uasset" 398
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Muscles/Front_legs_6.uasset" 399
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Muscles/Front_Legs_7.uasset" 400
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Muscles/Front_Legs_9.uasset" 401
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Selection_Tests/Back_Legs_high_Mesh_polySurface55Mat.uasset" 402
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Selection_Tests/Back_Legs_low_lambert3_BaseColor.uasset" 403
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Selection_Tests/Back_Legs_low_lambert3_Normal.uasset" 404
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Selection_Tests/Back_Legs_low_lambert3_OcclusionRoughnessMetallic.uasset" 405
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Selection_Tests/Back_Legs_Mat.uasset" 406
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Selection_Tests/Femur.uasset" 407
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Selection_Tests/Fibula.uasset" 408
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Selection_Tests/lambert1.uasset" 409
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Selection_Tests/lambert3.uasset" 410
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Selection_Tests/Pelvis.uasset" 411
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Technical_Materials/NewMaterial.uasset" 412
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Test_Widget/Test_Widget_1.uasset" 413
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Test_Widget/BP_MenuActor.uasset" 414
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 415
+"../../../Engine/Content/BasicShapes/Cone.uasset" 416
+"../../../Engine/Content/BasicShapes/Cube.uasset" 417
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 418
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 419
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 420
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 421
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 422
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 423
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 424
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 425
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 426
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 427
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 428
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 429
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 430
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 431
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 432
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 433
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 434
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 435
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 436
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 437
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 438
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 439
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 440
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 441
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 442
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 443
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 444
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 445
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 446
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 447
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 448
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 449
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 450
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 451
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 452
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 453
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 454
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 455
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 456
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 457
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 458
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 459
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 460
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 461
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 462
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 463
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 464
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 465
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 466
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 467
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 468
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 469
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 470
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 471
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 472
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 473
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 474
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 475
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 476
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 477
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 478
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 479
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 480
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 481
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 482
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 483
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 484
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 485
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 486
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 487
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 488
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 489
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 490
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 491
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 492
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 493
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 494
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 495
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 496
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 497
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 498
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 499
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 500
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 501
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 502
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 503
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 504
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 505
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 506
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 507
+"../../../Engine/Content/EngineResources/Black.uasset" 508
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 509
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 510
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 511
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 512
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 513
+"../../../Engine/Content/EngineSounds/Master.uasset" 514
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 515
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 516
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 517
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 518
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 519
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 520
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 521
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 522
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 523
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 524
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 525
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 526
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 527
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 528
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 529
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 530
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 531
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 532
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 533
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 534
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 535
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 536
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 537
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 538
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 539
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 540
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 541
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 542
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 543
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 544
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 545
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 546
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 547
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 548
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 549
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 550
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 551
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 552
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 553
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 554
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 555
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 556
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 557
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 558
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 559
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 560
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 561
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 562
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 563
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 564
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 565
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 566
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 567
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 568
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 569
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 570
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 571
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 572
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Player_Character.uasset" 573
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Test_Widget/Test_HUD.uasset" 574
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VR_Gamemode.uasset" 575
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Movies/Dog_Tutorial_Video.uasset" 576
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Maps/Dog_Anatomy_BuiltData.uasset" 577
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Movies/TutorialMediaPlayer.uasset" 578
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Movies/NewMediaPlayer_Video.uasset" 579
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Movies/TutorialMaterial.uasset" 580
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Technical_Materials/Controls_Mat.uasset" 581
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Technical_Materials/M_Highlight.uasset" 582
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Technical_Materials/White.uasset" 583
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 584
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 585
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 586
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Technical_Materials/Fade_Material.uasset" 587
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Technical_Materials/Fade_Material_Inst.uasset" 588
+"../../../Engine/Content/BasicShapes/Plane.uasset" 589
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Geometry/Sphere.uasset" 590
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Maps/Dog_Anatomy.umap" 591
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Maps/Dog_Skull_Anatomy_BuiltData.uasset" 592
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Maps/Dog_Skull_Anatomy.umap" 593
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Maps/Main_Menu_BuiltData.uasset" 594
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Technical_Materials/uSE_THE_MENU.uasset" 595
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Technical_Materials/Controls_Mat1.uasset" 596
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Maps/Main_Menu.umap" 597
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Maps/Old/Dog_BuiltData.uasset" 598
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Back_Legs_low.uasset" 599
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Front_Legs_low.uasset" 600
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Head_low.uasset" 601
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Dog/Spine_low.uasset" 602
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Maps/Old/Dog.umap" 603
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Maps/Old/Selection_Testing_BuiltData.uasset" 604
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Maps/Old/Selection_Testing.umap" 605
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Maps/Old/Working_Naming_System_BuiltData.uasset" 606
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Maps/Old/Working_Naming_System.umap" 607
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 608
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 609
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 610
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 611
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 612
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" 613
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Materials/TeleportMCP.uasset" 614
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" 615
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" 616
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 617
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 618
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Meshes/BeaconDirection.uasset" 619
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" 620
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualRealityBP/Blueprints/HMDLocomotionPawn.uasset" 621
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData.uasset" 622
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Materials/M_BaseMaterial.uasset" 623
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Materials/MI_BaseMaterial2.uasset" 624
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Materials/MI_BaseMaterial3.uasset" 625
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/Geometry/Meshes/1M_Cube.uasset" 626
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap" 627
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" 628
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Materials/MI_SmallCubes.uasset" 629
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset" 630
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 631
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 632
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 633
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 634
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 635
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 636
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 637
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 638
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Materials/M_SplineArcMat.uasset" 639
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 640
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 641
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 642
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" 643
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 644
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 645
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Meshes/1x1_cube.uasset" 646
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Meshes/BeamMesh.uasset" 647
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 648
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" 649
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset" 650
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" 651
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset" 652
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Materials/GenericHMDMaterial.uasset" 653
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 654
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualReality/Meshes/GenericHMD.uasset" 655
+"E:/Vet School Projects/Dog Only/Vet_Med_VR Dog Only/Content/VirtualRealityBP/Maps/StartupMap.umap" 656
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 657
+"../../../Engine/Content/Maps/Entry.umap" 658
