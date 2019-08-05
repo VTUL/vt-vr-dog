@@ -1,4 +1,4 @@
-## Virtual Reality Dog 1.0 from Virginia Tech
+# Virtual Reality Dog 1.0 from Virginia Tech
 
 ## SYSTEM REQUIREMENTS
 |           | MINIMUM                                 | RECOMMENDED            |
