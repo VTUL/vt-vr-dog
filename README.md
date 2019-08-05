@@ -11,7 +11,7 @@
 | Storage   | 2 GB available space                    | 2.5 GB available space |
 
 ## INSTALL
-Go to the releases page and download the .zip file for the most recent release.
+Go to the [releases page](https://github.com/VTUL/vt-vr-dog/releases) and download the .zip file for the most recent release.
 Unzip the file once downloaded. Inside the unzipped folder, locate the .exe file and execute it.
 If your headset is attached and running, the experience should start working after you click on the .exe file.
 If it doesn't, check to make sure that your headset is connected and setup properly and SteamVR is running on your PC.
