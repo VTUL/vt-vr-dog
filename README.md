@@ -21,6 +21,4 @@ By using or adapting the Virtual Reality Dog, you are joining a community of lik
 
 Please complete this form https://forms.gle/fWeQbiwWyPZCY5kk6 before using the VR animal. This will help us better understand your interest in and use of the VR Dog, provide quantitative feedback to project stakeholders, and to understand your level of interest in collaborative development and research opportunities.
 
-Please report any errors at https://forms.gle/fNsp84Lr7iRkd4na9 
-
 Additional information about VR Projects from the University Libraries at Virginia Tech is available at: https://lib.vt.edu/research-learning/vr-research-projects.html
